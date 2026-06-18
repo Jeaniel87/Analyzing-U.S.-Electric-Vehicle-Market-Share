@@ -32,6 +32,9 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 
      <img width="2368" height="2373" alt="ev_distribution" src="https://github.com/user-attachments/assets/d1597096-2828-4745-ada7-f448c46a4eaf" />
 
+- Electric vehicle adoption in the United States is relatively low, with strong concentration in a few leading states.
+  California significantly outperforms all other states with EV adoption  around 3.4%. This indicates strong policy support,  infrastructure(charging stations), and consumer adoption. Other states like the District of Columbia (2.60%), Hawaii(2.37%), and Washington(2.23) are among the top 5 EV adoption. States like Mississippi (0.13%), North Dakota (0.13%), and Wyoming (0.17%) have a very low EV penetration.
+
 
 
 
