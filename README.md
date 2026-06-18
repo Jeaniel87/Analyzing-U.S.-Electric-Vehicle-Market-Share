@@ -41,9 +41,22 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 
 
 
+
+
+
+
+
+
+
+
+
+
    - PHEVs (Plug-in Hybrid Electric) vehicles in the US
  
 <img width="2368" height="2373" alt="PHEV_Vehicle_distribution" src="https://github.com/user-attachments/assets/8b464ccd-0fbb-44c7-a5d7-9b1dfc219e3f" />
+
+
+
 
 
 
