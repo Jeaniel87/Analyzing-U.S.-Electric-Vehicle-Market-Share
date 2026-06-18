@@ -30,7 +30,8 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 
    - What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline?
 
-     
+     <img width="2368" height="2373" alt="ev_distribution" src="https://github.com/user-attachments/assets/d1597096-2828-4745-ada7-f448c46a4eaf" />
+
 
 
 
