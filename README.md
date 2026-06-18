@@ -9,7 +9,7 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 - Which alternative fuels (biodiesel, ethanol, hydrogen) are significant vs. niche?
 - Where should policymakers prioritize EV infrastructure investment based on adoption trends and gaps in support?
 
-  **Tools used**
+**Tools used**
   - Pandas for data cleaning and analysis
   - Matplotlib for data visualization
 
