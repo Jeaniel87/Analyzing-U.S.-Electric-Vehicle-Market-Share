@@ -42,11 +42,52 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 The US vehicle market is heavily dominated by gasoline vehicles, with over 80% of market share. 
 While alternative fuel technologies exist, particularly Electric vehicles (1.24%), hybrid vehicles (2.5%), and ethanol (7%), their combined market share remained relatively small compared to gasoline.
 This situation indicates that the transition to clean technology is still in an early stage. 
-There is potential for growth in clean transportation if the policy marker increase consumer adoption of clean technology by :
+There is potential for growth in clean transportation if policymakers increase consumer adoption of clean technology by :
    - Environmental awareness
-   - Government incentives( like tax credit for EV vehicle purchase)
+   - Government incentives(like tax credit for EV vehicle purchase)
    - Investment in battery technology and charging infrastructures
 
+
+
+# Visualisation insights
+
+======================================
+Vehicle Fuel Market Share in the US (%)
+======================================
+Gasoline        84.60
+Ethanol_E85      7.05
+HEV              2.57
+Diesel           2.50
+EV               1.24
+Biodiesel        0.98
+Unknown_Fuel     0.59
+PHEV             0.46
+CNG              0.01
+Hydrogen         0.01
+Propane          0.00
+Methanol         0.00
+
+
+===================================
+Top five states with EV Adoption
+===================================    
+State                 EV_pct
+California              3.41
+District of Columbia    2.60
+Hawaii                  2.37
+Washington              2.23
+Nevada                  1.85
+
+           
+========================================
+The bottom five states with EV Adoption
+========================================
+State                 EV_Pct
+South Dakota           0.19
+West Virginia          0.19
+Wyoming                0.17
+North Dakota           0.13
+Mississippi            0.13
 
 
 
