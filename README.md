@@ -54,6 +54,7 @@ There is potential for growth in clean transportation if policymakers increase c
 
 
 
+<img width="1971" height="1490" alt="Vehicle Market share in the US" src="https://github.com/user-attachments/assets/0a386056-5401-4c1d-86da-239770e31cce" />
 
 <img width="2368" height="2373" alt="ev_distribution" src="https://github.com/user-attachments/assets/d1597096-2828-4745-ada7-f448c46a4eaf" />
  
