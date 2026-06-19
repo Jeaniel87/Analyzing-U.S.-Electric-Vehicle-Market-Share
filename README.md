@@ -16,28 +16,42 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
 **Methodology**
 
 1. Data cleaning and standardization
-   - Rename the columns for better readability
-   - check for duplicate values (No duplicate found)
-   - check for missing values (No missing values found)
+   - Renamed the columns for better readability
+   - Checked for duplicate values (No duplicate found)
+   - Checked for missing values (No missing values found)
      
-2. Business Metrics
+2. Analysis performed
    
-   - Calculate the percentage distribution of fuel types per state using aggregation function (groupby)
-   - Sort values based on percentage to find the top and bottom states.
-   - Use matplotlib for visualization, showing the distribution of fuel types by state 
+   - Calculate the distribution of EV, PHEV, HEV, and gasoline per state.
+   - Identified top states for EV adoption and the ones that are lagging.
+   - Compared fuel adoption across all US states and identified which fuels are widely used vs niche
+   - Compared EV adoption in California vs other large states (e.g., Texas, Florida, New York) 
 
   3. Key insights
 
-   - What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline?
+   - The US market is highly dominated by gasoline across all states, with over 80% as market share.
+   - Alternative fuel exists EV (1.24%), PHEV (0.46%), HEV (2.57%), but their market adoption is very low compared to gasoline.
+   - California significantly outperforms all other states with EV adoption around 3.4%. 
+   -  States like the District of Columbia (2.60%), Hawaii(2.37%), and Washington(2.23) are among the top 5 EV adoption, while states like Mississippi (0.13%), North Dakota (0.13%), and Wyoming (0.17%) lag.
+   - Ethanol_E85, with 7.05% of the market share, is the most significant fuel in use right after gasoline.
+   - Compared to large states like Texas (0.89%), Florida (1.37%), and New York (1.16%), California (3.4%) showed a high percentage of EV vehicles. This indicates strong policy support, infrastructure (charging stations)
+     and consumer adoption.
+   
+# Conclusion
+     
+The US vehicle market is heavily dominated by gasoline vehicles, with over 80% of market share. 
+While alternative fuel technologies exist, particularly Electric vehicles (1.24%), hybrid vehicles (2.5%), and ethanol (7%), their combined market share remained relatively small compared to gasoline.
+This situation indicates that the transition to clean technology is still in an early stage. 
+There is potential for growth in clean transportation if the policy marker increase consumer adoption of clean technology by :
+   - Environmental awareness
+   - Government incentives( like tax credit for EV vehicle purchase)
+   - Investment in battery technology and charging infrastructures
 
-      - EVs Vehicle in US
 
-     <img width="2368" height="2373" alt="ev_distribution" src="https://github.com/user-attachments/assets/d1597096-2828-4745-ada7-f448c46a4eaf" />
 
-- Electric vehicle adoption in the United States is relatively low, with strong concentration in a few leading states.
-  California significantly outperforms all other states with EV adoption  around 3.4%. This indicates strong policy support,  infrastructure(charging stations), and consumer adoption. Other states like the District of Columbia (2.60%), Hawaii(2.37%), and Washington(2.23) are among the top 5 EV adoption. States like Mississippi (0.13%), North Dakota (0.13%), and Wyoming (0.17%) have a very low EV penetration.
 
-   - PHEVs (Plug-in Hybrid Electric) vehicles in the US
+
+<img width="2368" height="2373" alt="ev_distribution" src="https://github.com/user-attachments/assets/d1597096-2828-4745-ada7-f448c46a4eaf" />
  
 <img width="2368" height="2373" alt="PHEV_Vehicle_distribution" src="https://github.com/user-attachments/assets/8b464ccd-0fbb-44c7-a5d7-9b1dfc219e3f" />
 
