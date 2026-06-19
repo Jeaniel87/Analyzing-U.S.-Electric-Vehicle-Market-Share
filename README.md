@@ -51,43 +51,6 @@ There is potential for growth in clean transportation if policymakers increase c
 
 # Visualisation insights
 
-======================================
-Vehicle Fuel Market Share in the US (%)
-======================================
-Gasoline        84.60
-Ethanol_E85      7.05
-HEV              2.57
-Diesel           2.50
-EV               1.24
-Biodiesel        0.98
-Unknown_Fuel     0.59
-PHEV             0.46
-CNG              0.01
-Hydrogen         0.01
-Propane          0.00
-Methanol         0.00
-
-
-===================================
-Top five states with EV Adoption
-===================================    
-State                 EV_pct
-California              3.41
-District of Columbia    2.60
-Hawaii                  2.37
-Washington              2.23
-Nevada                  1.85
-
-           
-========================================
-The bottom five states with EV Adoption
-========================================
-State                 EV_Pct
-South Dakota           0.19
-West Virginia          0.19
-Wyoming                0.17
-North Dakota           0.13
-Mississippi            0.13
 
 
 
@@ -96,8 +59,11 @@ Mississippi            0.13
  
 <img width="2368" height="2373" alt="PHEV_Vehicle_distribution" src="https://github.com/user-attachments/assets/8b464ccd-0fbb-44c7-a5d7-9b1dfc219e3f" />
 
+<img width="2368" height="2373" alt="HEV_Vehicle_distribution" src="https://github.com/user-attachments/assets/824173ff-a5b0-4726-ab24-63813661808e" />
 
+<img width="2368" height="2373" alt="Gasoline_distribution" src="https://github.com/user-attachments/assets/74eefc3b-0d11-4712-96ed-98c2ff35d787" />
 
+<img width="1643" height="1300" alt="California vs large states" src="https://github.com/user-attachments/assets/de8a5ae4-c9b4-4688-ae9d-6cc8eafef94b" />
 
 
 
