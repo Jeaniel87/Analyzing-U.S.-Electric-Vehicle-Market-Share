@@ -30,7 +30,7 @@ Our goal is to uncover where EV adoption is happening fastest, how EVs compare t
   3. Key insights
 
    - The US market is highly dominated by gasoline across all states, with over 80% as market share.
-   - Alternative fuel exists EV (1.24%), PHEV (0.46%), HEV (2.57%), but their market adoption is very low compared to gasoline.
+   - Alternative fuel exist EV (1.24%), PHEV (0.46%), HEV (2.57%), but their market adoption is very low compared to gasoline.
    - California significantly outperforms all other states with EV adoption around 3.4%. 
    -  States like the District of Columbia (2.60%), Hawaii (2.37%), and Washington (2.23%) are among the top 5 EV adoption, while states like Mississippi (0.13%), North Dakota (0.13%), and Wyoming (0.17%) lag.
    - Ethanol_E85, with 7.05% of the market share, is the most significant fuel in use right after gasoline.
